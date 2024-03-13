@@ -1,4 +1,5 @@
 # COVID-19 Tracker Dashboard
+![Screenshot 2024-03-11 163324](https://github.com/simalaomprakash/Covid-19-Analysis/assets/156334076/e9109db4-acd6-4d35-9f0a-556a36f3ec82)
 
 ## Description
 I've developed an interactive Power BI dashboard to help individuals stay informed about the ongoing COVID-19 pandemic. This dashboard provides a comprehensive overview of COVID-19 cases, deaths, and recoveries globally, as well as for individual countries and continents. With intuitive filters and dynamic visuals, users can effortlessly explore the data and gain valuable insights into the crisis.
